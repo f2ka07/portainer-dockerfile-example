@@ -1,7 +1,7 @@
 # Portainer-Dockerfile-Example
 How to Create a Docker Image for Portainer using a Dockerfile
 
-To create a Docker image from a Dockerfile for use in Portainer, you will need to follow the steps outlined below.
+To create a <a href="https://hub.docker.com/r/portainer24/portainer-dockerfile-example"> Docker image from a Dockerfile for use in Portainer</a>, you will need to follow the steps outlined below.
 
 1. Create a Dockerfile.
 2. Use the Linux terminal of your computer to build the image using the Dockerfile.
